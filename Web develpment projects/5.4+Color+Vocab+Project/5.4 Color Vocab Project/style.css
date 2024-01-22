@@ -1,0 +1,35 @@
+#red{
+    color:rgba(153, 6, 6, 0.952);
+}
+
+
+#blue{
+    color:rgba(21, 50, 180, 0.952);
+}
+
+
+
+#orange{
+    color:rgba(255, 115, 0, 0.966);
+}
+
+
+
+#green{
+    color:rgb(38, 143, 28);
+}
+
+
+#yellow{
+    color:rgb(204, 204, 23);
+}
+
+
+.color-title{
+    font-weight: normal,
+}
+
+img{
+    height:200px;
+    width:200px;
+}
